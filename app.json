@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "rmd-bus-tracking",
+    "slug": "rmd-bus-tracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yuvanthv.rmdbustracking"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yuvanthv.rmdbustracking"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

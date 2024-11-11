@@ -1,0 +1,49 @@
+{
+  "name": "rmd-bus-tracking",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-picker/picker": "^2.9.0",
+    "@react-navigation/bottom-tabs": "^6.6.1",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "~51.0.28",
+    "expo-firebase-core": "^6.0.0",
+    "expo-firebase-recaptcha": "^2.3.1",
+    "expo-modules-core": "~1.12.24",
+    "expo-status-bar": "~1.12.1",
+    "firebase": "^10",
+    "i18next": "^23.16.5",
+    "metro": "^0.80.12",
+    "react": "18.2.0",
+    "react-i18next": "^15.1.1",
+    "react-native": "0.74.5",
+    "react-native-confetti-cannon": "^1.5.2",
+    "react-native-country-picker-modal": "^2.0.0",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-localize": "^3.3.0",
+    "react-native-maps": "^1.20.0",
+    "react-native-permissions": "^4.1.5",
+    "react-native-reanimated": "~3.10.1",
+    "react-native-safe-area-context": "^4.10.5",
+    "react-native-screens": "^3.31.1",
+    "react-native-share": "^11.0.4",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-webview": "^13.12.1",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
